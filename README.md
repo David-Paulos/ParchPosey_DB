@@ -7,8 +7,7 @@
  
  PostgreSQL Tools : **pgAdmin4**
  
- ## Challenges
-Challenges are from Udacity course "[SQL for Data Analysis](https://in.udacity.com/course/sql-for-data-analysis--ud198)" by [MODE](https://modeanalytics.com/). 
+ 
 
 **CSV Data** : raw data for **Parch&Posey company** db in csv format. 
 
