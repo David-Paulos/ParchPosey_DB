@@ -13,11 +13,11 @@
 
 **Schema Dump**: schema only dump.
 
-    * Basic SQL queries.
-    * SQL Join
-    * SQL Aggregations
-    * Sub Queries & Temporary Tables
-    * SQL Data Cleansing
+     Basic SQL queries.
+     SQL Join
+     SQL Aggregations
+     Sub Queries & Temporary Tables
+     SQL Data Cleansing
 
 ![P&P](https://raw.githubusercontent.com/David-Paulos/ParchPosey_DB/master/The%20Parch%20%26%20Posey%20Database%20ERD.png)
  
